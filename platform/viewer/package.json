@@ -1,14 +1,14 @@
 {
-  "name": "@ohif/viewer",
+  "name": "@mattlashey/viewer",
   "version": "4.5.25",
   "description": "OHIF Viewer",
-  "author": "OHIF Contributors",
+  "author": "Swapnil Surdi",
   "license": "MIT",
   "repository": "OHIF/Viewers",
   "main": "dist/index.umd.js",
   "module": "src/index.js",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/mattlashey"
   },
   "engines": {
     "node": ">=10",
